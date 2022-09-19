@@ -1,8 +1,7 @@
 
 # ToDoList
 
-link--- https://yatharthdhawan.github.io/ToDoList/todolist_project
-
+link---https://yatharthdhawan.github.io/ToDoList/
 **TECH STACK**- HTML,CSS,JavaScript
 
 **About project**
